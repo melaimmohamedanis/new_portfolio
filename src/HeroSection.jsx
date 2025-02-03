@@ -1,4 +1,5 @@
 import React from 'react'
+import picture from '/assets/Asset1.png'
 
 const HeroSection = () => {
     return (
@@ -27,7 +28,7 @@ const HeroSection = () => {
           {/* Right Image */}
           <div className="relative">
             <img
-              src="/assets/Asset1.png"
+              src={picture}
               alt="Mohamed Anis"
               className="w-60 md:w-80 rounded-full z-10 shadow-lg"
             />
