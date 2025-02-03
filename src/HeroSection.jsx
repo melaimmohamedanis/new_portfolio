@@ -27,7 +27,7 @@ const HeroSection = () => {
           {/* Right Image */}
           <div className="relative">
             <img
-              src="/assets/Asset 1.png"
+              src="/assets/Asset1.png"
               alt="Mohamed Anis"
               className="w-60 md:w-80 rounded-full z-10 shadow-lg"
             />
