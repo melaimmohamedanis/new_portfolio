@@ -1,10 +1,10 @@
-
+import image1 from '/assets/Make-Architects_-homepage.png'
 export const data=
   { "showcase": [
     {
       "title": "Architecture",
       "description": "offers architectural and interior design services internationally. Although we can’t classify this as a traditional online store, the company sells its services effectively via a captivating website design..",
-      "image": "/assets/Make-Architects_-homepage.png", // Replace with your image URL
+      "image": image1, // Replace with your image URL
       "url": "https://example.com/project1" // Replace with your project URL
     },
     {
